@@ -1,0 +1,25 @@
+
+
+p,li,a {
+	font-family: "Times New Roman", san-serif;
+	font-size:18px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a{
+	color:#2765F5;
+}
+
+a:visited { color:#302687
+ }
+
+ body {
+ 	background-image: url("Bookshelf.jpg");
+ 	background-repeat:no-repeat;
+ 	background-size:100% auto;
+ }
+
+ 
